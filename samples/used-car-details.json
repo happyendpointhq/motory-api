@@ -1,0 +1,333 @@
+{
+  "success": true,
+  "data": {
+    "header": {
+      "id": 272443,
+      "status": "active",
+      "tooltip": null,
+      "tooltip_pre_owned": null,
+      "year": 2026,
+      "title": "Nissan X-Trail 2026",
+      "mileage": "0 km",
+      "is_dealer": true,
+      "seller_type": "Dealer",
+      "images": [
+        "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/691x518/l-1764172113.3988-6927215161602.webp"
+      ],
+      "images_thumbs": null,
+      "images_full_width": null,
+      "seller_type_url": "https://ksa.motory.com/en/cars-for-sale/?seller_type=1",
+      "video": null,
+      "grade": "",
+      "make_id": 84,
+      "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878674.042-638853920a43c.webp",
+      "make": "Nissan",
+      "make_url": "https://ksa.motory.com/en/cars-for-sale/nissan/",
+      "model_id": 378,
+      "model": "X-Trail",
+      "model_url": "https://ksa.motory.com/en/cars-for-sale/nissan/x-trail/",
+      "year_url": "https://ksa.motory.com/en/cars-for-sale/2026/",
+      "is_featured": true,
+      "package": {
+        "title": "Nitrous Listing",
+        "icon": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/common/1710369915.3925-65f22c7b5fd5f.webp",
+        "color": "#5B0DB3"
+      },
+      "is_pre_owned": false,
+      "is_favorite": false,
+      "request_leads_count": null,
+      "is_vehicle_owner": false,
+      "share_link": "https://ksa.motory.com/en/cars-for-sale/riyadh-haraj/nissan/x-trail/2026/272443/",
+      "reward_data": {
+        "show": false,
+        "type": "default",
+        "currency": "",
+        "prize": "",
+        "text": "",
+        "cashback_code": "",
+        "link_text": "",
+        "action": "",
+        "action_text": "",
+        "action_link": "",
+        "description": ""
+      },
+      "bread_crumb_urls": null,
+      "is_not_available": false,
+      "not_available_text": null
+    },
+    "price": {
+      "price": 97175,
+      "financing_information": [],
+      "has_financing": true,
+      "is_motory_shop": false,
+      "motory_shop_icon": null,
+      "motory_shop_link": null,
+      "cell_type": "form_only",
+      "show_financing_info": false,
+      "is_lexus": false,
+      "preferred_financing_company_id": 271,
+      "preferred_financing_company_name": "Syartac",
+      "preferred_financing_company_logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1726482470.6112-66e80826953a8.webp",
+      "preferred_financing_company_cities": [],
+      "preferred_financing_company_periods": [],
+      "lexus_purchase_types_list": [
+        {
+          "value": "cash",
+          "text": "Cash",
+          "show_component": null,
+          "hide_component": [
+            "downpayment"
+          ]
+        },
+        {
+          "value": "finance",
+          "text": "Finance",
+          "show_component": [
+            "downpayment"
+          ],
+          "hide_component": null
+        }
+      ],
+      "disclaimer": {
+        "title": "Disclaimer",
+        "description": "- Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+        "description2": "- Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+        "description3": "- For a safe experience, the financial transactions must be done in person through the official channels"
+      },
+      "whats_app_disclaimer": {
+        "title": "Disclaimer",
+        "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+        "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+        "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+      },
+      "call_disclaimer": {
+        "title": "Disclaimer",
+        "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+        "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+        "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+      },
+      "is_vat_company": false,
+      "is_vat_vehicle": true,
+      "companies": [
+        {
+          "id": 271,
+          "name": "Syartac",
+          "price": 97175,
+          "is_vat": true,
+          "logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1726482470.6112-66e80826953a8.webp",
+          "small_logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1726482475.5639-66e8082b89ac5.webp"
+        }
+      ],
+      "vat_text": "VAT Included",
+      "cash_sale_companies": null,
+      "extra_purchase_plan_list": [],
+      "extra_gender_list": [],
+      "extra_model_list": [],
+      "extra_expected_time_to_buy_list": [],
+      "currency": "SR",
+      "per_month": "per month",
+      "price_object": {
+        "hide_price": false,
+        "price_text": "Cash Price with VAT",
+        "price_value": "97,175",
+        "price_currency": "SR",
+        "price_note": "",
+        "monthly_payment": null,
+        "down_payment": null,
+        "final_payment": null,
+        "total_amount": null,
+        "period": 0,
+        "has_financing": true,
+        "finance_text": "Financing",
+        "finance_value": "Available",
+        "disabled_finance_value": false,
+        "disabled_price_value": false,
+        "finance_currency": "",
+        "percentage": null,
+        "show_finance_button": true,
+        "show_cash_button": false,
+        "show_call_button": true
+      },
+      "request_leads_count": null
+    },
+    "trust": [
+      {
+        "title": "Warranty you can count on",
+        "values": "5 Years Warranty",
+        "icon": "https://ksa.motory.com/images/motory_app/guarantee/60-en.png"
+      }
+    ],
+    "overview": [
+      {
+        "is_image": true,
+        "title": "Make",
+        "text": "Nissan",
+        "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878674.042-638853920a43c.webp",
+        "hex_color": null
+      },
+      {
+        "is_image": true,
+        "title": "Condition",
+        "text": "New",
+        "image": "https://ksa.motory.com/images/overview_icons/condition.png",
+        "hex_color": null,
+        "tooltip": null
+      }
+    ],
+    "description": {
+      "grade": null,
+      "vin_number": null,
+      "description": "New Nissan X-Trail 2026 car for sale with CVT transmission. The mileage when the car is listed for sale is 0. The car also features an exterior color Black. The car is currently located in Riyadh at SAR 97175."
+    },
+    "seller": {
+      "id": 620813,
+      "logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/dealer/l-1706970162.88-65be4c32d6d6a.webp",
+      "is_dealer": true,
+      "url": "https://ksa.motory.com/en/cars-dealers/riyadh/syartac-company-620813/"
+    },
+    "inspection_reports": [],
+    "related_used": {
+      "title": "More from this dealer",
+      "link": "https://ksa.motory.com/en/cars-dealers/riyadh/syartac-company-620813/",
+      "items": [
+        {
+          "vehicle_id": 276772,
+          "vehicle_type": "used",
+          "status": "active",
+          "is_featured": true,
+          "package": {
+            "title": "Nitrous",
+            "icon": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/common/1710369915.3925-65f22c7b5fd5f.webp",
+            "color": "#5B0DB3"
+          },
+          "is_pre_owned": false,
+          "is_favorite": false,
+          "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878687.1593-6388539f26e4e.webp",
+          "make": "MG",
+          "make_id": 50,
+          "model": "3",
+          "model_id": 468,
+          "year": 2025,
+          "title": "MG 3 2025",
+          "url": "https://ksa.motory.com/en/cars-for-sale/riyadh-haraj/mg/3/2025/276772/",
+          "city": "Riyadh",
+          "transmission": "Automatic",
+          "mileage": "0 km",
+          "price_object": {
+            "hide_price": false,
+            "price_text": "Cash Price",
+            "price_value": "39,100",
+            "price_currency": "SR",
+            "price_note": "",
+            "monthly_payment": null,
+            "down_payment": null,
+            "final_payment": null,
+            "total_amount": null,
+            "period": 0,
+            "has_financing": true,
+            "finance_text": "Financing",
+            "finance_value": "Available",
+            "disabled_finance_value": false,
+            "disabled_price_value": false,
+            "finance_currency": "",
+            "percentage": null,
+            "show_finance_button": true,
+            "show_cash_button": false,
+            "show_call_button": true
+          },
+          "image": "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1778167131.9072-69fcad5bdd7a6.webp",
+          "images": null,
+          "seller_type": "Dealer",
+          "warranty_text": null
+        }
+      ]
+    },
+    "offers": {
+      "title": "Nissan Offers",
+      "link": null,
+      "items": [
+        {
+          "company": {
+            "url": "https://ksa.motory.com/en/cars-offers/manahil-international-nissan-offers/",
+            "name": "Manahil International- Nissan",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/company/50x50/l-1767256617.1412-6956322922794.webp"
+          },
+          "url": "https://ksa.motory.com/en/cars-offers/altima-2025-zero-down-payment-monthly-installments-from-sar-1260-4809/",
+          "makes_list": [
+            {
+              "id": 84,
+              "name": "Nissan",
+              "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/60x60/l-1669878674.042-638853920a43c.webp",
+              "url": "https://ksa.motory.com/en/cars-offers/nissan/",
+              "text": "Nissan",
+              "slug": "nissan"
+            }
+          ],
+          "id": 4809,
+          "title": "Altima 2025 – Zero Down Payment, Monthly Installments from SAR 1260",
+          "offer_begin": "06/10/2026",
+          "offer_end": "31/10/2026",
+          "image": "https://s3.eu-central-1.amazonaws.com/v3-car-offer.motory.com/car-offer/l-1791800211.2558-6accb3933e760.webp",
+          "images": null
+        }
+      ]
+    },
+    "related_new": {
+      "title": "Nissan New Cars",
+      "link": "https://ksa.motory.com/en/new-cars/nissan/",
+      "items": [
+        {
+          "vehicle_id": 273391,
+          "vehicle_type": "new",
+          "make_name": "Nissan",
+          "make_id": 84,
+          "model_name": "X-Trail",
+          "model_id": 378,
+          "grade": "2.5 2WD 2ROW S",
+          "title": "Nissan X-Trail 2.5 2WD 2ROW S 2026",
+          "year": 2026,
+          "price": 104999,
+          "is_not_available": false,
+          "is_featured": true,
+          "from_company": true,
+          "price_text": "Asking Price",
+          "monthly_payment": null,
+          "finance_available": true,
+          "company_logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/92x29/l-1621951411.2492-60ad03b33cd8e.webp",
+          "image": "https://s3.eu-central-1.amazonaws.com/v3-ncg.motory.com/vehicle-new/l-1674464638.6029-63ce4d7e93330_outbound.webp",
+          "images": null,
+          "icon": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878674.042-638853920a43c.webp",
+          "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878674.042-638853920a43c.webp",
+          "url": "https://ksa.motory.com/en/new-cars/nissan/x-trail/2026/nissan-x-trail-25-2wd-2row-s-2026-273391/",
+          "is_electrical": false,
+          "range_per_charge": null,
+          "fuel_economy": "16.1 Km/L",
+          "engine_capacity": "2.5 L",
+          "horsepower": "181 hp",
+          "price_object": {
+            "hide_price": false,
+            "price_text": "Cash Price",
+            "price_value": "104,999",
+            "price_currency": "SR",
+            "price_note": null,
+            "monthly_payment": null,
+            "down_payment": null,
+            "final_payment": null,
+            "total_amount": null,
+            "period": null,
+            "has_financing": true,
+            "finance_text": "Financing",
+            "finance_value": "Available",
+            "disabled_finance_value": false,
+            "disabled_price_value": false,
+            "finance_currency": "",
+            "percentage": null,
+            "show_finance_button": true,
+            "show_cash_button": true,
+            "show_call_button": false
+          }
+        }
+      ]
+    }
+  }
+}

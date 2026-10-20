@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "data": {
+    "total": 1393,
+    "filters": [
+      {
+        "type": "radio",
+        "field": "make_id",
+        "search": true,
+        "is_multiple": false,
+        "label": "Make",
+        "selected_values": [],
+        "has_selected_values": false,
+        "data": [
+          {
+            "text": "All",
+            "value": "-1",
+            "count": 1393
+          },
+          {
+            "text": "Toyota",
+            "text_ar": "تويوتا",
+            "text_en": "Toyota",
+            "value": "90",
+            "slug_ar": "تويوتا",
+            "slug_en": "toyota",
+            "count": 253,
+            "selected": false,
+            "reset_field": "model_id",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp",
+            "link": "https://ksa.motory.com/en/cars-for-sale/toyota/"
+          }
+        ]
+      },
+      {
+        "type": "radio",
+        "field": "year",
+        "search": true,
+        "search_limit": 11,
+        "is_multiple": false,
+        "label": "Year",
+        "selected_values": [],
+        "has_selected_values": false,
+        "data": [
+          {
+            "text": "All",
+            "value": "-1",
+            "count": 1393
+          },
+          {
+            "text": "2027",
+            "value": "2027",
+            "count": 20,
+            "selected": false,
+            "reset_field": null,
+            "link": null
+          }
+        ]
+      },
+      {
+        "field": "has_financing",
+        "type": "boolean",
+        "label": "Finance Available",
+        "selected": false,
+        "count": 863,
+        "reset_field": "monthly_payment"
+      }
+    ]
+  }
+}

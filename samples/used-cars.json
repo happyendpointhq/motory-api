@@ -1,0 +1,647 @@
+{
+  "success": true,
+  "data": {
+    "items": [
+      {
+        "id": 282101,
+        "is_featured": false,
+        "package": null,
+        "is_pre_owned": false,
+        "title": "Toyota Corolla XLI 2024",
+        "price_object": {
+          "hide_price": false,
+          "price_text": "Cash Price with VAT",
+          "price_value": "57,500",
+          "price_currency": "SR",
+          "price_note": "",
+          "monthly_payment": null,
+          "down_payment": null,
+          "final_payment": null,
+          "total_amount": null,
+          "period": 0,
+          "has_financing": true,
+          "finance_text": "Financing",
+          "finance_value": "Available",
+          "disabled_finance_value": false,
+          "disabled_price_value": false,
+          "finance_currency": "",
+          "percentage": null,
+          "show_finance_button": true,
+          "show_cash_button": false,
+          "show_call_button": true
+        },
+        "is_favorite": false,
+        "year": 2024,
+        "make_id": 90,
+        "model_id": 431,
+        "status": "active",
+        "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp",
+        "make": "Toyota",
+        "model": "Corolla",
+        "description": "The installment is indicative and includes estimated insurance; it is subject to finance provider approval and may vary from one customer to another.",
+        "rejected_reason": null,
+        "created_at": "20/10/2026",
+        "transmission": "Automatic",
+        "mileage": "146,275 km",
+        "city": "Jeddah",
+        "bread_crumb_urls": null,
+        "has_financing": true,
+        "is_dealer": true,
+        "seller_id": 454541,
+        "dealer_type": "Dealer",
+        "dealer_type_url": null,
+        "is_motory_shop": false,
+        "motory_shop_icon": null,
+        "motory_shop_link": null,
+        "show_financing_info": false,
+        "is_lexus": false,
+        "financing_company_id": 174,
+        "financing_company_name": "MotoryShop",
+        "financing_company_logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1693827861.0902-64f5c3151607a.webp",
+        "preferred_financing_company_cities": [],
+        "preferred_financing_company_periods": [],
+        "down_payment": null,
+        "final_payment": null,
+        "total_amount": null,
+        "percentage": {
+          "down_payment_percentage": null,
+          "monthly_payment_percentage": null,
+          "final_payment_percentage": null
+        },
+        "period": 0,
+        "lexus_purchase_types_list": [
+          {
+            "value": "cash",
+            "text": "Cash",
+            "show_component": null,
+            "hide_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "customer_bank_id",
+              "nationality_id",
+              "contact_language"
+            ]
+          },
+          {
+            "value": "finance",
+            "text": "Finance",
+            "show_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "nationality_id",
+              "contact_language"
+            ],
+            "hide_component": null
+          }
+        ],
+        "overview_details_4": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Jeddah",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "Automatic",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "Red",
+            "image": "#FF0000"
+          }
+        ],
+        "overview_details_2": [
+          {
+            "is_image": true,
+            "text": "Sedan",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "146,275",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "overview": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Jeddah",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "Automatic",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "Red",
+            "image": "#FF0000"
+          },
+          {
+            "is_image": true,
+            "text": "Sedan",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "146,275",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "whats_app_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "call_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "features": null,
+        "can_edit": true,
+        "images": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792496707.0105-6ad75443028de.webp"
+        ],
+        "images_full": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792496707.0105-6ad75443028de.webp"
+        ],
+        "is_vat_company": false,
+        "is_vat_vehicle": true,
+        "companies": [
+          {
+            "id": 174,
+            "name": "MotoryShop",
+            "price": 57500,
+            "is_vat": true,
+            "logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1693827861.0902-64f5c3151607a.webp",
+            "small_logo": "https://s3.eu-central-1.amazonaws.com/v3-companies.motory.com/lead-company/l-1693827894.8139-64f5c336c6b71.webp"
+          }
+        ],
+        "vat_text": "VAT Included",
+        "warranty_text": null,
+        "images_count": "30 Pics",
+        "cell_type": "form_only",
+        "cash_sale_companies": null,
+        "extra_purchase_plan_list": [],
+        "extra_gender_list": [],
+        "extra_model_list": [],
+        "extra_expected_time_to_buy_list": [],
+        "currency": "SR",
+        "per_month": "per month",
+        "share_link": "https://ksa.motory.com/en/cars-for-sale/jeddah-haraj/toyota/corolla/2024/282101/",
+        "url": null,
+        "is_not_available": false,
+        "not_available_text": null
+      },
+      {
+        "id": 282051,
+        "is_featured": false,
+        "package": null,
+        "is_pre_owned": false,
+        "title": "Toyota VELOZ 2024",
+        "price_object": {
+          "hide_price": false,
+          "price_text": "Cash Price",
+          "price_value": "63,000",
+          "price_currency": "SR",
+          "price_note": "",
+          "monthly_payment": null,
+          "down_payment": null,
+          "final_payment": null,
+          "total_amount": null,
+          "period": null,
+          "has_financing": false,
+          "finance_text": null,
+          "finance_value": null,
+          "disabled_finance_value": true,
+          "disabled_price_value": false,
+          "finance_currency": "",
+          "percentage": null,
+          "show_finance_button": false,
+          "show_cash_button": false,
+          "show_call_button": true
+        },
+        "is_favorite": false,
+        "year": 2024,
+        "make_id": 90,
+        "model_id": 3006,
+        "status": "active",
+        "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp",
+        "make": "Toyota",
+        "model": "VELOZ",
+        "description": "Used Toyota VELOZ 2024 car for sale with CVT transmission. The mileage when the car is listed for sale is 80,000-89,999. The car also features an exterior color White. The car is currently located in Riyadh at SAR 63000.",
+        "rejected_reason": null,
+        "created_at": "19/10/2026",
+        "transmission": "CVT",
+        "mileage": "80,000-89,999 km",
+        "city": "Riyadh",
+        "bread_crumb_urls": null,
+        "has_financing": false,
+        "is_dealer": false,
+        "dealer_type": "Individual",
+        "dealer_type_url": null,
+        "is_motory_shop": false,
+        "motory_shop_icon": null,
+        "motory_shop_link": null,
+        "show_financing_info": false,
+        "is_lexus": false,
+        "financing_company_id": null,
+        "financing_company_name": null,
+        "financing_company_logo": null,
+        "preferred_financing_company_cities": null,
+        "preferred_financing_company_periods": null,
+        "down_payment": null,
+        "final_payment": null,
+        "total_amount": null,
+        "percentage": {
+          "down_payment_percentage": null,
+          "monthly_payment_percentage": null,
+          "final_payment_percentage": null
+        },
+        "period": null,
+        "lexus_purchase_types_list": [
+          {
+            "value": "cash",
+            "text": "Cash",
+            "show_component": null,
+            "hide_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "customer_bank_id",
+              "nationality_id",
+              "contact_language"
+            ]
+          },
+          {
+            "value": "finance",
+            "text": "Finance",
+            "show_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "nationality_id",
+              "contact_language"
+            ],
+            "hide_component": null
+          }
+        ],
+        "overview_details_4": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Riyadh",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "CVT",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "White",
+            "image": "#FFFFFF"
+          }
+        ],
+        "overview_details_2": [
+          {
+            "is_image": true,
+            "text": "SUV",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "80,000-89,999",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "overview": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Riyadh",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "CVT",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "White",
+            "image": "#FFFFFF"
+          },
+          {
+            "is_image": true,
+            "text": "SUV",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "80,000-89,999",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "whats_app_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "call_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "features": null,
+        "can_edit": true,
+        "images": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792367823.1451-6ad55ccf236e8.webp"
+        ],
+        "images_full": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792367823.1451-6ad55ccf236e8.webp"
+        ],
+        "is_vat_company": false,
+        "is_vat_vehicle": false,
+        "companies": [],
+        "vat_text": "VAT Included",
+        "warranty_text": null,
+        "images_count": "6 Pics",
+        "cell_type": "cash",
+        "cash_sale_companies": null,
+        "extra_purchase_plan_list": [],
+        "extra_gender_list": [],
+        "extra_model_list": [],
+        "extra_expected_time_to_buy_list": [],
+        "currency": "SR",
+        "per_month": "per month",
+        "share_link": "https://ksa.motory.com/en/cars-for-sale/riyadh-haraj/toyota/veloz/2024/282051/",
+        "url": null,
+        "is_not_available": false,
+        "not_available_text": null
+      },
+      {
+        "id": 282023,
+        "is_featured": false,
+        "package": null,
+        "is_pre_owned": false,
+        "title": "Toyota Camry 2019",
+        "price_object": {
+          "hide_price": false,
+          "price_text": "Cash Price",
+          "price_value": "65,000",
+          "price_currency": "SR",
+          "price_note": "",
+          "monthly_payment": null,
+          "down_payment": null,
+          "final_payment": null,
+          "total_amount": null,
+          "period": null,
+          "has_financing": false,
+          "finance_text": null,
+          "finance_value": null,
+          "disabled_finance_value": true,
+          "disabled_price_value": false,
+          "finance_currency": "",
+          "percentage": null,
+          "show_finance_button": false,
+          "show_cash_button": false,
+          "show_call_button": true
+        },
+        "is_favorite": false,
+        "year": 2019,
+        "make_id": 90,
+        "model_id": 429,
+        "status": "active",
+        "make_logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp",
+        "make": "Toyota",
+        "model": "Camry",
+        "description": "Used Toyota Camry 2019 car for sale with Automatic transmission. The mileage when the car is listed for sale is 200,000+. The car also features an exterior color White. The car is currently located in Yanbu at SAR 65000.",
+        "rejected_reason": null,
+        "created_at": "18/10/2026",
+        "transmission": "Automatic",
+        "mileage": "200,000+ km",
+        "city": "Yanbu",
+        "bread_crumb_urls": null,
+        "has_financing": false,
+        "is_dealer": false,
+        "dealer_type": "Individual",
+        "dealer_type_url": null,
+        "is_motory_shop": false,
+        "motory_shop_icon": null,
+        "motory_shop_link": null,
+        "show_financing_info": false,
+        "is_lexus": false,
+        "financing_company_id": null,
+        "financing_company_name": null,
+        "financing_company_logo": null,
+        "preferred_financing_company_cities": null,
+        "preferred_financing_company_periods": null,
+        "down_payment": null,
+        "final_payment": null,
+        "total_amount": null,
+        "percentage": {
+          "down_payment_percentage": null,
+          "monthly_payment_percentage": null,
+          "final_payment_percentage": null
+        },
+        "period": null,
+        "lexus_purchase_types_list": [
+          {
+            "value": "cash",
+            "text": "Cash",
+            "show_component": null,
+            "hide_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "customer_bank_id",
+              "nationality_id",
+              "contact_language"
+            ]
+          },
+          {
+            "value": "finance",
+            "text": "Finance",
+            "show_component": [
+              "downpayment",
+              "period",
+              "monthly_income",
+              "monthly_commitments",
+              "is_salary_transferred_to_bank",
+              "nationality_id",
+              "contact_language"
+            ],
+            "hide_component": null
+          }
+        ],
+        "overview_details_4": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Yanbu",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "Automatic",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "White",
+            "image": "#FFFFFF"
+          }
+        ],
+        "overview_details_2": [
+          {
+            "is_image": true,
+            "text": "Sedan",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "200,000+",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "overview": [
+          {
+            "is_image": true,
+            "text": "Toyota",
+            "image": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+          },
+          {
+            "is_image": true,
+            "text": "Yanbu",
+            "image": "https://ksa.motory.com/images/overview_icons/city.png"
+          },
+          {
+            "is_image": true,
+            "text": "Automatic",
+            "image": "https://ksa.motory.com/images/overview_icons/transmission.png"
+          },
+          {
+            "is_image": false,
+            "text": "White",
+            "image": "#FFFFFF"
+          },
+          {
+            "is_image": true,
+            "text": "Sedan",
+            "image": "https://ksa.motory.com/images/overview_icons/body_type.png"
+          },
+          {
+            "is_image": true,
+            "text": "200,000+",
+            "image": "https://ksa.motory.com/images/overview_icons/mileage.png"
+          }
+        ],
+        "disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "whats_app_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "call_disclaimer": {
+          "title": "Disclaimer",
+          "description": "Motory is not responsible for any financial transactions between the seller and the buyer, and you will not be required to fill in additional private information using any other links",
+          "description2": "Before making a purchase, make sure to verify the seller's identity. Also, you should never transfer money in advance",
+          "description3": "For a safe experience, the financial transactions must be done in person through the official channels"
+        },
+        "features": null,
+        "can_edit": true,
+        "images": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792325463.397-6ad4b75760eb2.webp"
+        ],
+        "images_full": [
+          "https://s3.eu-central-1.amazonaws.com/v3-cfs.motory.com/vehicle-used/l-1792325463.397-6ad4b75760eb2.webp"
+        ],
+        "is_vat_company": false,
+        "is_vat_vehicle": false,
+        "companies": [],
+        "vat_text": "VAT Included",
+        "warranty_text": null,
+        "images_count": "9 Pics",
+        "cell_type": "cash",
+        "cash_sale_companies": null,
+        "extra_purchase_plan_list": [],
+        "extra_gender_list": [],
+        "extra_model_list": [],
+        "extra_expected_time_to_buy_list": [],
+        "currency": "SR",
+        "per_month": "per month",
+        "share_link": "https://ksa.motory.com/en/cars-for-sale/yanbu-haraj/toyota/camry/2019/282023/",
+        "url": null,
+        "is_not_available": false,
+        "not_available_text": null
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "page_size": 10,
+      "total_items": 132,
+      "total_pages": 14
+    }
+  }
+}

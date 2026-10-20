@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "items": [
+      {
+        "id": 90,
+        "name": "Toyota",
+        "logo": "https://s3.eu-central-1.amazonaws.com/v3-common.motory.com/taxonomy/l-1669878465.8496-638852c1cf6f3.webp"
+      }
+    ]
+  }
+}
